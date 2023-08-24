@@ -1,16 +1,17 @@
 # Computer-Vision-and-Perception-for-Self-Driving-Cars
 
-This repository contains code and resources for learning about computer vision and perception for self-driving cars.
-
 **1) Overview**
 
-This project is a study of the computer vision and perception techniques that are used in self-driving cars. The project focuses on the following tasks:
+This repository demonstrates the latest technology being used right now in autonomous driving. The aim is to drive further progress and lead us to safer, more efficient, and widely accepted autonomous driving systems in the near future.
 
-Lane detection
-Object detection
-Traffic sign recognition
-Depth estimation
-Semantic segmentation
+A variety of techniques are included in this project, such as 
+
+1) Road segmentation
+2) 2D object detection
+3) Object Tracking
+4) 3D Data Visualization
+5) Multi-Task Learning
+6) Birds Eye View
 
 **2) Goals**
 
@@ -41,8 +42,9 @@ Limited data
 Hardware limitations
 The need for real-time performance
 
-**Future Work
-**The future work for this project includes:
+**6) Future Work**
+
+The future work for this project includes:
 
 Extending the system to new tasks, such as obstacle avoidance and path planning
 Improving the accuracy of the algorithms
