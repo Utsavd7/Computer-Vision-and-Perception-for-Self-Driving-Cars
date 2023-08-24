@@ -25,13 +25,10 @@ Contribute to the open-source community of self-driving car research
 
 The methods that are used in this project include:
 
-Deep learning
-
-Traditional computer vision techniques
-
-Data augmentation
-
-Transfer learning
+1) Deep learning
+2) Traditional computer vision techniques
+3) Data augmentation
+4) Transfer learning
 
 **4) Results**
 
@@ -41,18 +38,14 @@ The results of this project show that deep learning techniques can achieve state
 
 The challenges that were encountered during this project include:
 
-Limited data
-
-Hardware limitations
-
-The need for real-time performance
+1) Limited data
+2) Hardware limitations
+3) The need for real-time performance
 
 **6) Future Work**
 
 The future work for this project includes:
 
-Extending the system to new tasks, such as obstacle avoidance and path planning
-
-Improving the accuracy of the algorithms
-
-Making the system more robust to changes in the environment
+1) Extending the system to new tasks, such as obstacle avoidance and path planning
+2) Improving the accuracy of the algorithms
+3) Making the system more robust to changes in the environment
