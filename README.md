@@ -2,7 +2,8 @@
 
 This repository contains code and resources for learning about computer vision and perception for self-driving cars.
 
-**Overview**
+**1) Overview**
+
 This project is a study of the computer vision and perception techniques that are used in self-driving cars. The project focuses on the following tasks:
 
 Lane detection
@@ -11,14 +12,16 @@ Traffic sign recognition
 Depth estimation
 Semantic segmentation
 
-**Goals**
+**2) Goals**
+
 The goals of this project are to:
 
 Learn about the different computer vision and perception techniques that are used in self-driving cars
 Develop and evaluate new algorithms for these tasks
 Contribute to the open-source community of self-driving car research
 
-**Methods**
+**3) Methods**
+
 The methods that are used in this project include:
 
 Deep learning
@@ -26,10 +29,12 @@ Traditional computer vision techniques
 Data augmentation
 Transfer learning
 
-**Results**
+**4) Results**
+
 The results of this project show that deep learning techniques can achieve state-of-the-art results on the tasks of lane detection, object detection, and traffic sign recognition. However, traditional computer vision techniques can still be effective, especially with limited data.
 
-**Challenges**
+**5) Challenges**
+
 The challenges that were encountered during this project include:
 
 Limited data
