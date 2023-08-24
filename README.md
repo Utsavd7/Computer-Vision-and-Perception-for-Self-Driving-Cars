@@ -25,9 +25,9 @@ Contribute to the open-source community of self-driving car research
 
 The methods that are used in this project include:
 
-Deep learning
-Traditional computer vision techniques
-Data augmentation
+Deep learning,
+Traditional computer vision techniques,
+Data augmentation,
 Transfer learning
 
 **4) Results**
