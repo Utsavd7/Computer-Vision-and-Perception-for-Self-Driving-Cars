@@ -12,6 +12,7 @@ A variety of techniques are included in this project, such as
 4) 3D Data Visualization
 5) Multi-Task Learning
 6) Birds Eye View
+7) 3D Object Detection
 
 **2) Goals**
 
